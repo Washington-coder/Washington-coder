@@ -31,17 +31,22 @@ Siga-me nas redes sociais e entre em contato!
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  
+
+| Estatísticas Gerais | Linguagens Mais Usadas |
+|:--------------------:|:-----------------------:|
+| ![Estatísticas do perfil](https://github-readme-stats.vercel.app/api?username=Washington-coder&show_icons=true&theme=radical&hide=issues) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Washington-coder&layout=compact&theme=radical) |
+
+</div>
+
+<div align="center">
+
 ![Commits](https://img.shields.io/github/commit-activity/y/Washington-coder)
 ![Estrelas](https://img.shields.io/github/stars/Washington-coder?style=social)
 ![Seguidores](https://img.shields.io/github/followers/Washington-coder?style=social)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Washington-coder&layout=compact&theme=radical)
-  
-![Estatísticas do perfil](https://github-readme-stats.vercel.app/api?username=Washington-coder&show_icons=true&theme=radical)
 
 </div>
 
 ---
 
-**Obrigado por visitar meu perfil!** 🌟
+**Obrigado por visitar meu perfil!** 🌟  
 Vamos colaborar? 🚀
