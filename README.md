@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:61DAFB&height=180&section=header&text=Washington%20Riega&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:61DAFB&height=180&section=header&text=Washington%20Moreno&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Washington Moreno!</h1>
