@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:61DAFB&height=180&section=header&text=Washington%20Riega&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Washington Riega!</h1>
+<h1 align="center">👋 Olá, eu sou o Washington Moreno!</h1>
 
 <p align="center">
   <b>Desenvolvedor de Software | 3 anos de experiência | Ciência da Computação - UFAM</b><br>
