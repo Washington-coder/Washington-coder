@@ -35,34 +35,6 @@ Tenho paixão por escrever código limpo, escalável e de fácil manutenção, s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Washington-coder&layout=compact&theme=radical" alt="Linguagens mais usadas" height="165"/>
 </p>
 
----
-
-## ⏳ Histórico de Commits
-
-<p align="center">
-  <img src="https://github.com/Washington-coder/Washington-coder/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Washington-coder&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Washington-coder&theme=radical" alt="Gráfico de Atividade" />
-</p>
-
----
-
-## 🏆 Destaques
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/Washington-coder?color=61DAFB&label=Commits%20por%20ano" />
-  <img src="https://img.shields.io/github/stars/Washington-coder?style=social" />
-  <img src="https://img.shields.io/github/followers/Washington-coder?style=social" />
-</p>
-
----
-
 ## 🌐 Conecte-se comigo
 
 <p align="center">
@@ -75,10 +47,4 @@ Tenho paixão por escrever código limpo, escalável e de fácil manutenção, s
   <a href="mailto:was.antonio.xy@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <b>Obrigado por visitar meu perfil! Vamos colaborar? 🚀</b>
 </p>
