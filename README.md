@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Desenvolvedor de Software | 3 anos de experiência | Ciência da Computação - UFAM</b><br>
-  <i>Paixão por código limpo, soluções escaláveis e tecnologia de ponta.</i>
+  <i>Clean Code, Desenvolvimento Web e Saas</i>
 </p>
 
 ---
