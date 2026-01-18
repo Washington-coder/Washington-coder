@@ -77,8 +77,18 @@ I am passionate about writing clean, scalable, and maintainable code, always fol
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Washington-coder&show_icons=true&theme=radical&hide=issues" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Washington-coder&layout=compact&theme=radical" alt="Linguagens mais usadas" height="165"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Washington-coder&theme=radical" 
+    alt="Washington GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Washington-coder&theme=radical" 
+    alt="GitHub Stats"
+    height="180"
+  />
 </p>
 
 ## 🌐 Let's connect !
