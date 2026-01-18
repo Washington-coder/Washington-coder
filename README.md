@@ -22,9 +22,55 @@ I am passionate about writing clean, scalable, and maintainable code, always fol
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,python,mongodb,postgres,java,html,css,android,fastify,nestjs,expressjs,tailwind" alt="Tech Stack" />
+<div align="center">
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="48" height="48"/>
 </p>
+<p>
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>JavaScript</code>
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>TailwindCSS</code>
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=expressjs" alt="Express.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=fastify" alt="Fastify" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/>
+</p>
+<p>
+  <code>Node.js</code>
+  <code>NestJS</code>
+  <code>Express.js</code>
+  <code>Fastify</code>
+  <code>Python</code>
+  <code>Java</code>
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48"/>
+</p>
+<p>
+  <code>MongoDB</code>
+  <code>PostgreSQL</code>
+</p>
+
+</div>
 
 ---
 
