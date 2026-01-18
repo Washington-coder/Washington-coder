@@ -14,7 +14,7 @@
 
 ## 🚀 About me
 
-I am a software developer with 3 years of experience in real-world projects, working with modern technologies such as <b>ReactJS, NodeJS, TypeScript, Python, MongoDB e PostgreSQL</b>. I have a technical background from <b>Fundação Matias Machline</b> currently pursuing a degree in <b>Computer Science</b> at the <b>Federal University of Amazonas (UFAM)</b>.
+I am a software developer with 3 years of experience in real-world projects, working with modern technologies such as <b>ReactJS, NodeJS, TypeScript, Python, MongoDB, Fastify, NestJS, Express.js, Docker, TailwindCSS, Shadcn/ui e PostgreSQL</b>. I have a technical background from <b>Fundação Matias Machline</b> currently pursuing a degree in <b>Computer Science</b> at the <b>Federal University of Amazonas (UFAM)</b>.
 
 I am passionate about writing clean, scalable, and maintainable code, always following best practices and software architecture patterns such as SOLID, refactoring, DDD, Repository Pattern and etc. I have worked in agile teams using Scrum and Kanban, actively collaborating to deliver efficient and innovative solutions.
 
@@ -23,7 +23,7 @@ I am passionate about writing clean, scalable, and maintainable code, always fol
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,python,mongodb,postgres,java,html,css,android" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,python,mongodb,postgres,java,html,css,android, fastify, nestjs, expressjs, docker, tailwindcss, docker" alt="Tech Stack" />
 </p>
 
 ---
