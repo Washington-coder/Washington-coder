@@ -3,24 +3,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:61DAFB&height=180&section=header&text=Washington%20Moreno&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Washington Moreno!</h1>
+<h1 align="center">👋 Hi, I am Washington Moreno!</h1>
 
 <p align="center">
-  <b>Desenvolvedor de Software | 3 anos de experiência | Ciência da Computação - UFAM</b><br>
-  <i>Clean Code, Desenvolvimento Web e Saas</i>
+  <b>Software Developer | 3 years of experience | B.S. in Computer Science - UFAM</b><br>
+  <i>Web Development</i>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Sou desenvolvedor de software com 3 anos de experiência em projetos reais, atuando com tecnologias modernas como <b>ReactJS, NodeJS, TypeScript, Python, MongoDB e PostgreSQL</b>. Tenho formação técnica pela <b>Fundação Matias Machline</b> e atualmente curso <b>Ciência da Computação</b> na <b>Universidade Federal do Amazonas (UFAM)</b>.
+I am a software developer with 3 years of experience in real-world projects, working with modern technologies such as <b>ReactJS, NodeJS, TypeScript, Python, MongoDB e PostgreSQL</b>. I have a technical background from <b>Fundação Matias Machline</b> currently pursuing a degree in <b>Computer Science</b> at the <b>Federal University of Amazonas (UFAM)</b>.
 
-Tenho paixão por escrever código limpo, escalável e de fácil manutenção, sempre seguindo boas práticas e padrões de arquitetura de software. Já atuei em times ágeis com metodologias como <b>Scrum</b> e <b>Kanban</b>, colaborando ativamente na entrega de soluções eficientes e inovadoras.
+I am passionate about writing clean, scalable, and maintainable code, always following best practices and software architecture patterns such as SOLID, refactoring, DDD, Repository Pattern and etc. I have worked in agile teams using Scrum and Kanban, actively collaborating to deliver efficient and innovative solutions.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,python,mongodb,postgres,java,html,css,android" alt="Tech Stack" />
@@ -28,14 +28,14 @@ Tenho paixão por escrever código limpo, escalável e de fácil manutenção, s
 
 ---
 
-## 📈 Meu GitHub em Números
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Washington-coder&show_icons=true&theme=radical&hide=issues" alt="Estatísticas do GitHub" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Washington-coder&layout=compact&theme=radical" alt="Linguagens mais usadas" height="165"/>
 </p>
 
-## 🌐 Conecte-se comigo
+## 🌐 Let's connect !
 
 <p align="center">
   <a href="https://www.instagram.com/was.antonio" target="_blank">
