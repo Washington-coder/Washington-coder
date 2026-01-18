@@ -23,7 +23,7 @@ I am passionate about writing clean, scalable, and maintainable code, always fol
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,python,mongodb,postgres,java,html,css,android, fastify, nestjs, expressjs, docker, tailwindcss, docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,python,mongodb,postgres,java,html,css,android,fastify,nestjs,expressjs,tailwind" alt="Tech Stack" />
 </p>
 
 ---
