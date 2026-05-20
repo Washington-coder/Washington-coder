@@ -39,11 +39,48 @@
 
 ## 🚀 About me
 
-I am a software developer with 4 years of experience in real-world projects, working with modern technologies such as <b>ReactJS, NodeJS, TypeScript, Python, MongoDB, Fastify, NestJS, Express.js, Docker, TailwindCSS, Shadcn/ui e PostgreSQL</b>. I have a technical background from <b>Fundação Matias Machline</b>, and hold a degree in Computer Science from the Federal University of Amazonas (UFAM).
+Full Stack Software Engineer with 4 years of experience building end-to-end web applications, working with modern JavaScript/TypeScript ecosystem. Passionate about clean, scalable code, best practices, and AI-powered solutions. Currently open to new opportunities.
 
-In addition to my professional experience in software engineering teams, I also work as a freelance full-stack developer, building custom websites, landing pages, MVPs, and AI-powered solutions tailored to real business needs. My freelance work involves the full software development lifecycle, from requirements gathering and solution design to implementation, deployment, and continuous improvement.
+---
 
-I am passionate about writing clean, scalable, and maintainable code, always following best practices and software architecture patterns such as SOLID, refactoring, TDD, Repository Pattern and etc. I have worked in agile teams using Scrum and Kanban, actively collaborating to deliver efficient and innovative solutions.
+### 🎓 Education
+
+| Degree | Institution | Period |
+|---|---|---|
+| B.S. in Computer Science | Federal University of Amazonas — UFAM | 2022 – 2026 |
+| Technical Degree in IT | Fundação Matias Machline | 2018 – 2020 |
+
+---
+
+### 🧑‍💻 Main Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/react.js-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
 
 ---
 
