@@ -40,7 +40,9 @@
 
 ## 🚀 About me
 
+<p align="center" >
 Full Stack Software Engineer with 4 years of experience building end-to-end web applications, working with modern JavaScript/TypeScript ecosystem. Passionate about clean, scalable code, best practices, and AI-powered solutions. Currently open to new opportunities.
+</p>
 
 ---
 
