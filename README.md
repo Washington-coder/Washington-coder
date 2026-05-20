@@ -36,10 +36,10 @@ I am passionate about writing clean, scalable, and maintainable code, always fol
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,expressjs,fastify,python,java" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,expressjs,fastify,python,java,docker" alt="Backend Skills" />
 </p>
 <p>
-  <code>Node.js</code> <code>NestJS</code> <code>Express.js</code> <code>Fastify</code> <code>Python</code> <code>Java</code>
+  <code>Node.js</code> <code>NestJS</code> <code>Express.js</code> <code>Fastify</code> <code>Python</code> <code>Java</code> <code>Docker</code>
 </p>
 
 ### Database
