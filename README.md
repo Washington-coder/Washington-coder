@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:61DAFB&height=180&section=header&text=Washington%20Moreno&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:61DAFB&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
 <h1 align="center">
