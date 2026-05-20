@@ -114,6 +114,22 @@ Full Stack Software Engineer with 4 years of experience building end-to-end web 
 
 ---
 
+## 🏆 Certifications
+
+<p>
+  <a href="LINK_DO_CERTIFICADO" target="_blank">
+    <img src="https://img.shields.io/badge/Nome%20do%20Curso-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+  </a>
+  <a href="LINK_DO_CERTIFICADO" target="_blank">
+    <img src="https://img.shields.io/badge/Nome%20do%20Curso-Rocketseat-8257E5?style=for-the-badge&logo=rocket&logoColor=white"/>
+  </a>
+  <a href="LINK_DO_CERTIFICADO" target="_blank">
+    <img src="https://img.shields.io/badge/Nome%20do%20Curso-Alura-0095FF?style=for-the-badge&logo=alura&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
