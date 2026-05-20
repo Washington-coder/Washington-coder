@@ -44,15 +44,6 @@ Full Stack Software Engineer with 4 years of experience building end-to-end web 
 
 ---
 
-### 🎓 Education
-
-| Degree | Institution | Period |
-|---|---|---|
-| B.S. in Computer Science | Federal University of Amazonas — UFAM | 2022 – 2026 |
-| Technical Degree in IT | Fundação Matias Machline | 2018 – 2020 |
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -141,6 +132,15 @@ Full Stack Software Engineer with 4 years of experience building end-to-end web 
     <td align="center"><b>2023</b></td>
   </tr>
 </table>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period |
+|---|---|---|
+| B.S. in Computer Science | Federal University of Amazonas — UFAM | 2022 – 2026 |
+| Technical Degree in IT | Fundação Matias Machline | 2018 – 2020 |
 
 ---
 
