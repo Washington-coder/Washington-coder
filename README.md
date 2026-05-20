@@ -3,7 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:61DAFB&height=180&section=header&text=Washington%20Moreno&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">👋 Hi, I am Washington Moreno!</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"/>
+  Hi, I am Washington Moreno!
+</h1>
 
 <div align="center">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
