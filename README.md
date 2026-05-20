@@ -26,31 +26,61 @@ I am passionate about writing clean, scalable, and maintainable code, always fol
 
 <div align="center">
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" alt="Frontend Skills" />
-</p>
-<p>
-  <code>React</code> <code>TypeScript</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>TailwindCSS</code>
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,expressjs,fastify,python,java,docker" alt="Backend Skills" />
-</p>
-<p>
-  <code>Node.js</code> <code>NestJS</code> <code>Express.js</code> <code>Fastify</code> <code>Python</code> <code>Java</code> <code>Docker</code>
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="Database Skills" />
-</p>
-<p>
-  <code>MongoDB</code> <code>PostgreSQL</code>
-</p>
-
-</div>
+<table>
+    <tr>
+        <td><b>Languages<b></td>
+        <td>
+            <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+            <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td><b>Frameworks/Libs<b></td>
+        <td>
+            <img src="https://img.shields.io/badge/react.js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+            <img src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+            <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+            <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+        </td>
+    </tr>            
+    <tr>
+        <td><b>Tools & DevOps<b></td>
+        <td>
+            <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+            <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+            <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+            <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+        </td>
+    </tr>
+    <tr>
+        <td><b>Databases<b></td>
+        <td>
+            <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+            <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td><b>AI & Others<b></td>
+        <td>
+            <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+            <br/>
+            REST API, n8n, Zod, Vitest, SOLID, Clean Code, GitFlow, Scrum/Kanban, CI/CD, Design Responsivo, IA Agents.
+        </td>
+    </tr>    
+</table>
 
 ---
 
