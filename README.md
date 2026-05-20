@@ -17,6 +17,7 @@
       <td width="55%" align="left" valign="middle">
         <p>
           🧑‍💻 <b>Software Engineer</b> with <b>4 years of experience</b><br/>
+          🖥️ <b>Freelancer Developer</b><br/>
           🎓 <b>B.S. in Computer Science</b> — UFAM<br/>
           🚀 <b>Full Stack Developer</b><br/>
           🤖 <b>AI-powered solutions</b><br/>
