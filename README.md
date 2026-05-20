@@ -5,6 +5,11 @@
 
 <h1 align="center">👋 Hi, I am Washington Moreno!</h1>
 
+<!-- GIF -->
+<p align="center">
+  <img src="https://br.pinterest.com/gabe7s/gifs-2/" width="400" alt="coding gif" />
+</p>
+
 <p align="center">
   <b>Software Engineer | 4 years of experience | B.S. in Computer Science</b><br>
   <i>Full Stack Developer</i>
