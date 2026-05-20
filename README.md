@@ -5,36 +5,33 @@
 
 <h1 align="center">👋 Hi, I am Washington Moreno!</h1>
 
-<p align="center">
+<div align="center">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="45%" align="center">
         <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="340" alt="coding gif" />
       </td>
       <td width="55%" align="left" valign="middle">
-        <h2>👋 Hi, I'm Washington Moreno!</h2>
         <p>
           🧑‍💻 <b>Software Engineer</b> with <b>4 years of experience</b><br/>
           🎓 <b>B.S. in Computer Science</b> — UFAM<br/>
-          🚀 <b>Full Stack Developer</b> — React · Next.js · Node.js · TypeScript<br/>
-          🤖 Building <b>AI-powered solutions</b> with Gemini & Claude<br/>
+          🚀 <b>Full Stack Developer</b><br/>
+          🤖 <b>AI-powered solutions</b><br/>
           💼 Open to <b>new opportunities</b>
         </p>
         <p>
           <a href="https://www.linkedin.com/in/washington-riega/" target="_blank">
             <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
           </a>
-          <a href="https://github.com/Washington-coder" target="_blank">
-            <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="mailto:was.antonio.xy@gmail.com">
-            <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+          <a href="https://washington-moreno.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
       </td>
     </tr>
   </table>
-</p>
+</div>
+
 ---
 
 ## 🚀 About me
