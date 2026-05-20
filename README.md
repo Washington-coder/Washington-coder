@@ -6,17 +6,19 @@
 <h1 align="center">👋 Hi, I am Washington Moreno!</h1>
 
 <p align="center">
-  <b>Software Developer | 3 years of experience | B.S. in Computer Science - UFAM</b><br>
-  <i>Web Development</i>
+  <b>Software Engineer | 4 years of experience | B.S. in Computer Science</b><br>
+  <i>Full Stack Developer</i>
 </p>
 
 ---
 
 ## 🚀 About me
 
-I am a software developer with 3 years of experience in real-world projects, working with modern technologies such as <b>ReactJS, NodeJS, TypeScript, Python, MongoDB, Fastify, NestJS, Express.js, Docker, TailwindCSS, Shadcn/ui e PostgreSQL</b>. I have a technical background from <b>Fundação Matias Machline</b> currently pursuing a degree in <b>Computer Science</b> at the <b>Federal University of Amazonas (UFAM)</b>.
+I am a software developer with 4 years of experience in real-world projects, working with modern technologies such as <b>ReactJS, NodeJS, TypeScript, Python, MongoDB, Fastify, NestJS, Express.js, Docker, TailwindCSS, Shadcn/ui e PostgreSQL</b>. I have a technical background from <b>Fundação Matias Machline</b>, and hold a degree in Computer Science from the Federal University of Amazonas (UFAM).
 
-I am passionate about writing clean, scalable, and maintainable code, always following best practices and software architecture patterns such as SOLID, refactoring, DDD, Repository Pattern and etc. I have worked in agile teams using Scrum and Kanban, actively collaborating to deliver efficient and innovative solutions.
+In addition to my professional experience in software engineering teams, I also work as a freelance full-stack developer, building custom websites, landing pages, MVPs, and AI-powered solutions tailored to real business needs. My freelance work involves the full software development lifecycle, from requirements gathering and solution design to implementation, deployment, and continuous improvement.
+
+I am passionate about writing clean, scalable, and maintainable code, always following best practices and software architecture patterns such as SOLID, refactoring, TDD, Repository Pattern and etc. I have worked in agile teams using Scrum and Kanban, actively collaborating to deliver efficient and innovative solutions.
 
 ---
 
