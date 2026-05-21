@@ -36,7 +36,7 @@
   </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## 🚀 About me
 
@@ -44,9 +44,12 @@
 Full Stack Software Engineer with 4 years of experience building end-to-end web applications, working with modern JavaScript/TypeScript ecosystem. Passionate about clean, scalable code, best practices, and AI-powered solutions. Currently open to new opportunities.
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## 🛠️ Tech Stack & Tools
+<h1>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20">
+Tech Stack & Tools
+</h1>
 
 <div align="center">
 
@@ -106,12 +109,12 @@ Full Stack Software Engineer with 4 years of experience building end-to-end web 
     </tr>    
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## 🏆 Certifications
 
 <table>
-  <tr>
+  <!-- <tr>
     <td align="center" width="100">
       <img src="https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
     </td>
@@ -132,10 +135,10 @@ Full Stack Software Engineer with 4 years of experience building end-to-end web 
       <a href="LINK_DO_CERTIFICADO">🔗 Ver certificado</a>
     </td>
     <td align="center"><b>2023</b></td>
-  </tr>
+  </tr> -->
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## 🎓 Education
 
@@ -144,7 +147,7 @@ Full Stack Software Engineer with 4 years of experience building end-to-end web 
 | B.S. in Computer Science | Federal University of Amazonas — UFAM | 2022 – 2026 |
 | Technical Degree in IT | Fundação Matias Machline | 2018 – 2020 |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## 📈 GitHub Stats
 
