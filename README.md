@@ -36,7 +36,7 @@
   </table>
 </div>
 
-## 🚀 About me
+<h1>👨‍💻 About me</h1>
 
 <p align="center" >
 Full Stack Software Engineer with 4 years of experience building end-to-end web applications, working with modern JavaScript/TypeScript ecosystem. Passionate about clean, scalable code, best practices, and AI-powered solutions. Currently open to new opportunities.
@@ -140,22 +140,22 @@ Tech Stack & Tools
 | B.S. in Computer Science | Federal University of Amazonas — UFAM | 2022 – 2026 |
 | Technical Degree in IT | Fundação Matias Machline | 2018 – 2020 |
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Washington-coder&theme=radical" 
-    alt="Washington GitHub Profile Details"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Washington-coder&theme=radical" 
-    alt="GitHub Stats"
-    height="180"
-  />
-</p>
+<h1>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25">
+  GitHub Stats
+</h1>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/washington-riega/">
+      <img width="39%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Washington-coder&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+    </a>
+    <a href="https://www.linkedin.com/in/washington-riega/">
+      <img width="59%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Washington-coder&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&include_all_commits=true" alt="readme stats" />
+    </a>
+    <br/>
+    <a href="https://www.linkedin.com/in/washington-riega/">
+      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Washington-coder&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
+    </a>
+  </div>
 
 ## 🌐 Let's connect !
 
